@@ -44,6 +44,4 @@ VUE_APP_ENDPOINT = [Backend API]
 
 ## License - untuk project individu
 
-© [Bagus Tri Harjanto](https://github.com/bagusth15/)
-
 
